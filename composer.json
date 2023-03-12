@@ -1,0 +1,16 @@
+{
+    "name": "wespa/hexlet-php",
+    "description": "example package",
+    "autoload": {
+        "psr-4": {
+            "Wespa\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Svetlana Ostritsova",
+            "email": "ostritsova@mail.ru"
+        }
+    ],
+    "require": {}
+}
